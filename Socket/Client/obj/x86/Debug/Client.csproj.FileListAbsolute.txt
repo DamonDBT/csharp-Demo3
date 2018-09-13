@@ -1,0 +1,14 @@
+E:\codeStudy\8-C#\Demo3\Scoket\Client\bin\Debug\Client.exe
+E:\codeStudy\8-C#\Demo3\Scoket\Client\bin\Debug\Client.pdb
+E:\codeStudy\8-C#\Demo3\Scoket\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo3\Scoket\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo3\Scoket\Client\obj\x86\Debug\Client.exe
+E:\codeStudy\8-C#\Demo3\Scoket\Client\obj\x86\Debug\Client.pdb
+E:\codeStudy\8-C#\Demo3\Scoket\Client\obj\x86\Debug\Client.Form1.resources
+E:\codeStudy\8-C#\Demo3\Socket\Client\bin\Debug\Client.exe
+E:\codeStudy\8-C#\Demo3\Socket\Client\bin\Debug\Client.pdb
+E:\codeStudy\8-C#\Demo3\Socket\Client\obj\x86\Debug\Client.Form1.resources
+E:\codeStudy\8-C#\Demo3\Socket\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo3\Socket\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo3\Socket\Client\obj\x86\Debug\Client.exe
+E:\codeStudy\8-C#\Demo3\Socket\Client\obj\x86\Debug\Client.pdb

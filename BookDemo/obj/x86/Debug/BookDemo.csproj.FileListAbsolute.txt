@@ -1,0 +1,5 @@
+E:\codeStudy\8-C#\Demo3\BookDemo\bin\Debug\BookDemo.exe
+E:\codeStudy\8-C#\Demo3\BookDemo\bin\Debug\BookDemo.pdb
+E:\codeStudy\8-C#\Demo3\BookDemo\obj\x86\Debug\BookDemo.exe
+E:\codeStudy\8-C#\Demo3\BookDemo\obj\x86\Debug\BookDemo.pdb
+E:\codeStudy\8-C#\Demo3\BookDemo\obj\x86\Debug\BookDemo.csprojResolveAssemblyReference.cache

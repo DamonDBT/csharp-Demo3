@@ -1,0 +1,6 @@
+E:\codeStudy\8-C#\Demo3\OPC1\bin\Debug\OPC1.exe
+E:\codeStudy\8-C#\Demo3\OPC1\bin\Debug\OPC1.pdb
+E:\codeStudy\8-C#\Demo3\OPC1\obj\x86\Debug\Interop.OPCAutomation.dll
+E:\codeStudy\8-C#\Demo3\OPC1\obj\x86\Debug\OPC1.csproj.ResolveComReference.cache
+E:\codeStudy\8-C#\Demo3\OPC1\obj\x86\Debug\OPC1.exe
+E:\codeStudy\8-C#\Demo3\OPC1\obj\x86\Debug\OPC1.pdb

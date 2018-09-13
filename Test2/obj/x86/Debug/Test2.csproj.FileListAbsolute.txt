@@ -1,0 +1,4 @@
+E:\codeStudy\8-C#\Demo3\Test2\bin\Debug\Test2.exe
+E:\codeStudy\8-C#\Demo3\Test2\bin\Debug\Test2.pdb
+E:\codeStudy\8-C#\Demo3\Test2\obj\x86\Debug\Test2.exe
+E:\codeStudy\8-C#\Demo3\Test2\obj\x86\Debug\Test2.pdb

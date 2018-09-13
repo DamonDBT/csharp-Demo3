@@ -1,0 +1,4 @@
+E:\codeStudy\8-C#\Demo3\Thread1\bin\Debug\Thread1.exe
+E:\codeStudy\8-C#\Demo3\Thread1\bin\Debug\Thread1.pdb
+E:\codeStudy\8-C#\Demo3\Thread1\obj\x86\Debug\Thread1.exe
+E:\codeStudy\8-C#\Demo3\Thread1\obj\x86\Debug\Thread1.pdb

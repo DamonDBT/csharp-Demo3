@@ -1,0 +1,7 @@
+E:\codeStudy\8-C#\Demo3\MyOPC\bin\Debug\MyOPC.exe
+E:\codeStudy\8-C#\Demo3\MyOPC\bin\Debug\MyOPC.pdb
+E:\codeStudy\8-C#\Demo3\MyOPC\obj\x86\Debug\Interop.OPCAutomation.dll
+E:\codeStudy\8-C#\Demo3\MyOPC\obj\x86\Debug\MyOPC.csproj.ResolveComReference.cache
+E:\codeStudy\8-C#\Demo3\MyOPC\obj\x86\Debug\MyOPC.exe
+E:\codeStudy\8-C#\Demo3\MyOPC\obj\x86\Debug\MyOPC.pdb
+E:\codeStudy\8-C#\Demo3\MyOPC\bin\Debug\MyOPC.exe.config

@@ -1,0 +1,7 @@
+E:\codeStudy\8-C#\Demo3\Socket\Server\bin\Debug\Server.exe
+E:\codeStudy\8-C#\Demo3\Socket\Server\bin\Debug\Server.pdb
+E:\codeStudy\8-C#\Demo3\Socket\Server\obj\x86\Debug\Server.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo3\Socket\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo3\Socket\Server\obj\x86\Debug\Server.exe
+E:\codeStudy\8-C#\Demo3\Socket\Server\obj\x86\Debug\Server.pdb
+E:\codeStudy\8-C#\Demo3\Socket\Server\obj\x86\Debug\Server.Form1.resources

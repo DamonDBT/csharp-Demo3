@@ -1,0 +1,5 @@
+E:\codeStudy\8-C#\Demo3\Test3\bin\Debug\Test3.exe
+E:\codeStudy\8-C#\Demo3\Test3\bin\Debug\Test3.pdb
+E:\codeStudy\8-C#\Demo3\Test3\obj\x86\Debug\Test3.exe
+E:\codeStudy\8-C#\Demo3\Test3\obj\x86\Debug\Test3.pdb
+E:\codeStudy\8-C#\Demo3\Test3\obj\x86\Debug\Test3.csprojResolveAssemblyReference.cache

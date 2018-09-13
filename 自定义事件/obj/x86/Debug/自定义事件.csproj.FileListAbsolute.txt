@@ -1,0 +1,9 @@
+E:\codeStudy\8-C#\Demo3\自定义事件\bin\Debug\自定义事件.exe
+E:\codeStudy\8-C#\Demo3\自定义事件\bin\Debug\自定义事件.pdb
+E:\codeStudy\8-C#\Demo3\自定义事件\obj\x86\Debug\自定义事件.Form1.resources
+E:\codeStudy\8-C#\Demo3\自定义事件\obj\x86\Debug\自定义事件.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo3\自定义事件\obj\x86\Debug\自定义事件.UserControl1.resources
+E:\codeStudy\8-C#\Demo3\自定义事件\obj\x86\Debug\自定义事件.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo3\自定义事件\obj\x86\Debug\自定义事件.exe
+E:\codeStudy\8-C#\Demo3\自定义事件\obj\x86\Debug\自定义事件.pdb
+E:\codeStudy\8-C#\Demo3\自定义事件\obj\x86\Debug\自定义事件.csprojResolveAssemblyReference.cache
